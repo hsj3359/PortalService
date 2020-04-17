@@ -1,6 +1,5 @@
 package kr.ac.jejunu.user;
 
-import org.hamcrest.Matcher;
 import org.junit.jupiter.api.Test;
 
 import java.sql.SQLException;
@@ -13,11 +12,14 @@ public class UserDaoTests {
    String name = "sungjun";
    String password = "1234";
 
+
+
    @Test
    public void get() throws SQLException, ClassNotFoundException {
       Integer id = 1;
 
-      UserDao userDao = new JejuUserDao();
+      DaoFactory daoFactory = new DaoFactory();
+      UserDao userDao = daoFactory.getUserDao();
       User user = userDao.get(id);
       assertThat(user.getId(), is(id));
       assertThat(user.getName(), is(name));
@@ -29,10 +31,10 @@ public class UserDaoTests {
       User user = new User();
       user.setName(name);
       user.setPassword(password);
-      UserDao userDao = new JejuUserDao();
+      DaoFactory daoFactory = new DaoFactory();
+      UserDao userDao = daoFactory.getUserDao();
       userDao.insert(user);
       assertThat(user.getId(), greaterThan(0));
-
       User insertedUser = userDao.get(user.getId());
       assertThat(insertedUser.getName(), is(name));
       assertThat(insertedUser.getPassword(), is(password));
@@ -41,8 +43,9 @@ public class UserDaoTests {
    @Test
    public void getHalla() throws SQLException, ClassNotFoundException {
       Integer id = 1;
+      ConnectionMaker connectionMaker = new HallaConnectionMaker();
 
-      UserDao userDao = new HallaUserDao();
+      UserDao userDao = new UserDao(connectionMaker);
       User user = userDao.get(id);
       assertThat(user.getId(), is(id));
       assertThat(user.getName(), is(name));
@@ -54,7 +57,8 @@ public class UserDaoTests {
       User user = new User();
       user.setName(name);
       user.setPassword(password);
-      UserDao userDao = new HallaUserDao();
+      ConnectionMaker connectionMaker = new HallaConnectionMaker();
+      UserDao userDao = new UserDao(connectionMaker);
       userDao.insert(user);
       assertThat(user.getId(), greaterThan(0));
 
