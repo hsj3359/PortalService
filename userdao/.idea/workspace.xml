@@ -38,7 +38,27 @@
         </task>
         <projects_view>
           <tree_state>
-            <expand />
+            <expand>
+              <path>
+                <item name="" type="6a2764b6:ExternalProjectsStructure$RootNode" />
+                <item name="userdao" type="f1a62948:ProjectNode" />
+              </path>
+              <path>
+                <item name="" type="6a2764b6:ExternalProjectsStructure$RootNode" />
+                <item name="userdao" type="f1a62948:ProjectNode" />
+                <item name="Tasks" type="e4a08cd1:TasksNode" />
+              </path>
+              <path>
+                <item name="" type="6a2764b6:ExternalProjectsStructure$RootNode" />
+                <item name="userdao" type="f1a62948:ProjectNode" />
+                <item name="Dependencies" type="6de06a37:ExternalSystemViewDefaultContributor$MyDependenciesNode" />
+              </path>
+              <path>
+                <item name="" type="6a2764b6:ExternalProjectsStructure$RootNode" />
+                <item name="userdao" type="f1a62948:ProjectNode" />
+                <item name="Run Configurations" type="7b0102dc:RunConfigurationsNode" />
+              </path>
+            </expand>
             <select />
           </tree_state>
         </projects_view>
@@ -135,21 +155,35 @@
     </configuration>
     <configuration name="userdao" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
       <ExternalSystemSettings>
+        <option name="env">
+          <map>
+            <entry key="DB_CLASSNAME" value="com.mysql.cj.jdbc.Driver" />
+            <entry key="DB_PASSWORD" value="1234" />
+            <entry key="DB_URL" value="jdbc::myslql://localhost/jeju?serverTimezone=Asia/Seoul" />
+            <entry key="DB_USERNAME" value="jeju" />
+          </map>
+        </option>
         <option name="executionName" />
         <option name="externalProjectPath" value="$PROJECT_DIR$" />
         <option name="externalSystemIdString" value="GRADLE" />
-        <option name="scriptParameters" />
+        <option name="scriptParameters" value="" />
         <option name="taskDescriptions">
           <list />
         </option>
         <option name="taskNames">
           <list />
         </option>
-        <option name="vmOptions" />
+        <option name="vmOptions" value="" />
       </ExternalSystemSettings>
       <GradleScriptDebugEnabled>true</GradleScriptDebugEnabled>
       <method v="2" />
     </configuration>
+    <list>
+      <item itemvalue="Gradle.userdao" />
+      <item itemvalue="Gradle.UserDaoTests" />
+      <item itemvalue="Gradle.UserDaoTests.get" />
+      <item itemvalue="Gradle.UserDaoTests.insert" />
+    </list>
     <recent_temporary>
       <list>
         <item itemvalue="Gradle.userdao" />
@@ -185,10 +219,18 @@
     <option name="oldMeFiltersMigrated" value="true" />
   </component>
   <component name="WindowStateProjectService">
+    <state x="552" y="178" width="816" height="731" key="#Intentions" timestamp="1587790038797">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="552" y="178" width="816" height="731" key="#Intentions/0.0.1920.1040/1920.0.1920.1040@0.0.1920.1040" timestamp="1587790038797" />
     <state x="440" y="94" key="#Project_Structure" timestamp="1587788500148">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="440" y="94" key="#Project_Structure/0.0.1920.1040/1920.0.1920.1040@0.0.1920.1040" timestamp="1587788500148" />
+    <state x="414" y="174" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1587790499315">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="414" y="174" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1920.1040/1920.0.1920.1040@0.0.1920.1040" timestamp="1587790499315" />
     <state x="765" y="225" key="#com.intellij.ide.util.MemberChooser" timestamp="1587116603105">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
@@ -197,26 +239,34 @@
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="664" y="393" key="#com.intellij.refactoring.memberPushDown.PushDownDialog/0.0.1920.1040/1920.0.1920.1040@0.0.1920.1040" timestamp="1587114632063" />
+    <state x="289" y="0" key="#com.intellij.refactoring.rename.AutomaticRenamingDialog" timestamp="1587790077624">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="289" y="0" key="#com.intellij.refactoring.rename.AutomaticRenamingDialog/0.0.1920.1040/1920.0.1920.1040@0.0.1920.1040" timestamp="1587790077624" />
     <state x="690" y="266" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1587116012083">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="690" y="266" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.0.1920.1040/1920.0.1920.1040@0.0.1920.1040" timestamp="1587116012083" />
-    <state width="1877" height="282" key="GridCell.Tab.0.bottom" timestamp="1587119526135">
+    <state x="826" y="265" width="574" height="509" key="EnvironmentVariablesDialog" timestamp="1587790497638">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1877" height="282" key="GridCell.Tab.0.bottom/0.0.1920.1040/1920.0.1920.1040@0.0.1920.1040" timestamp="1587119526135" />
-    <state width="1877" height="282" key="GridCell.Tab.0.center" timestamp="1587119526135">
+    <state x="826" y="265" width="574" height="509" key="EnvironmentVariablesDialog/0.0.1920.1040/1920.0.1920.1040@0.0.1920.1040" timestamp="1587790497638" />
+    <state width="1860" height="279" key="GridCell.Tab.0.bottom" timestamp="1587789174047">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1877" height="282" key="GridCell.Tab.0.center/0.0.1920.1040/1920.0.1920.1040@0.0.1920.1040" timestamp="1587119526135" />
-    <state width="1877" height="282" key="GridCell.Tab.0.left" timestamp="1587119526134">
+    <state width="1860" height="279" key="GridCell.Tab.0.bottom/0.0.1920.1040/1920.0.1920.1040@0.0.1920.1040" timestamp="1587789174047" />
+    <state width="1860" height="279" key="GridCell.Tab.0.center" timestamp="1587789174047">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1877" height="282" key="GridCell.Tab.0.left/0.0.1920.1040/1920.0.1920.1040@0.0.1920.1040" timestamp="1587119526134" />
-    <state width="1877" height="282" key="GridCell.Tab.0.right" timestamp="1587119526135">
+    <state width="1860" height="279" key="GridCell.Tab.0.center/0.0.1920.1040/1920.0.1920.1040@0.0.1920.1040" timestamp="1587789174047" />
+    <state width="1860" height="279" key="GridCell.Tab.0.left" timestamp="1587789174046">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1877" height="282" key="GridCell.Tab.0.right/0.0.1920.1040/1920.0.1920.1040@0.0.1920.1040" timestamp="1587119526135" />
+    <state width="1860" height="279" key="GridCell.Tab.0.left/0.0.1920.1040/1920.0.1920.1040@0.0.1920.1040" timestamp="1587789174046" />
+    <state width="1860" height="279" key="GridCell.Tab.0.right" timestamp="1587789174047">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1860" height="279" key="GridCell.Tab.0.right/0.0.1920.1040/1920.0.1920.1040@0.0.1920.1040" timestamp="1587789174047" />
     <state width="1877" height="348" key="GridCell.Tab.1.bottom" timestamp="1587118486689">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
