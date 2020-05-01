@@ -252,22 +252,22 @@
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="826" y="265" width="574" height="509" key="EnvironmentVariablesDialog/0.0.1920.1040/1920.0.1920.1040@0.0.1920.1040" timestamp="1587790497638" />
-    <state width="1860" height="279" key="GridCell.Tab.0.bottom" timestamp="1587798445951">
+    <state width="1877" height="281" key="GridCell.Tab.0.bottom" timestamp="1588321274218">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1860" height="279" key="GridCell.Tab.0.bottom/0.0.1920.1040/1920.0.1920.1040@0.0.1920.1040" timestamp="1587798445951" />
-    <state width="1860" height="279" key="GridCell.Tab.0.center" timestamp="1587798445950">
+    <state width="1877" height="281" key="GridCell.Tab.0.bottom/0.0.1920.1040/1920.0.1920.1040@0.0.1920.1040" timestamp="1588321274218" />
+    <state width="1877" height="281" key="GridCell.Tab.0.center" timestamp="1588321274217">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1860" height="279" key="GridCell.Tab.0.center/0.0.1920.1040/1920.0.1920.1040@0.0.1920.1040" timestamp="1587798445950" />
-    <state width="1860" height="279" key="GridCell.Tab.0.left" timestamp="1587798445950">
+    <state width="1877" height="281" key="GridCell.Tab.0.center/0.0.1920.1040/1920.0.1920.1040@0.0.1920.1040" timestamp="1588321274217" />
+    <state width="1877" height="281" key="GridCell.Tab.0.left" timestamp="1588321274217">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1860" height="279" key="GridCell.Tab.0.left/0.0.1920.1040/1920.0.1920.1040@0.0.1920.1040" timestamp="1587798445950" />
-    <state width="1860" height="279" key="GridCell.Tab.0.right" timestamp="1587798445950">
+    <state width="1877" height="281" key="GridCell.Tab.0.left/0.0.1920.1040/1920.0.1920.1040@0.0.1920.1040" timestamp="1588321274217" />
+    <state width="1877" height="281" key="GridCell.Tab.0.right" timestamp="1588321274217">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1860" height="279" key="GridCell.Tab.0.right/0.0.1920.1040/1920.0.1920.1040@0.0.1920.1040" timestamp="1587798445950" />
+    <state width="1877" height="281" key="GridCell.Tab.0.right/0.0.1920.1040/1920.0.1920.1040@0.0.1920.1040" timestamp="1588321274217" />
     <state width="1877" height="348" key="GridCell.Tab.1.bottom" timestamp="1587118486689">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
@@ -284,28 +284,28 @@
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state width="1877" height="348" key="GridCell.Tab.1.right/0.0.1920.1040/1920.0.1920.1040@0.0.1920.1040" timestamp="1587118486688" />
-    <state x="662" y="298" width="595" height="443" key="RefactorJ.ExtractClass" timestamp="1587115679507">
+    <state x="662" y="298" width="595" height="443" key="RefactorJ.ExtractClass" timestamp="1588320993155">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="662" y="298" width="595" height="443" key="RefactorJ.ExtractClass/0.0.1920.1040/1920.0.1920.1040@0.0.1920.1040" timestamp="1587115679507" />
-    <state x="775" y="453" key="ReplaceDuplicatesPrompt" timestamp="1588318375545">
+    <state x="662" y="298" width="595" height="443" key="RefactorJ.ExtractClass/0.0.1920.1040/1920.0.1920.1040@0.0.1920.1040" timestamp="1588320993155" />
+    <state x="775" y="453" key="ReplaceDuplicatesPrompt" timestamp="1588320728005">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="775" y="453" key="ReplaceDuplicatesPrompt/0.0.1920.1040/1920.0.1920.1040@0.0.1920.1040" timestamp="1587113724189" />
+    <state x="775" y="453" key="ReplaceDuplicatesPrompt/0.0.1920.1040/1920.0.1920.1040@0.0.1920.1040" timestamp="1588320728005" />
     <state x="775" y="453" key="ReplaceDuplicatesPrompt/0.0.1920.1040@0.0.1920.1040" timestamp="1588318375545" />
     <state x="754" y="297" key="chooseDestDirectoryDialog" timestamp="1586517026018">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="754" y="297" key="chooseDestDirectoryDialog/0.0.1920.1040/1920.0.1920.1040@0.0.1920.1040" timestamp="1586517026018" />
-    <state x="690" y="267" key="extract.method.dialog" timestamp="1588318402071">
+    <state x="690" y="267" key="extract.method.dialog" timestamp="1588320834623">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="690" y="267" key="extract.method.dialog/0.0.1920.1040/1920.0.1920.1040@0.0.1920.1040" timestamp="1587118342308" />
+    <state x="690" y="267" key="extract.method.dialog/0.0.1920.1040/1920.0.1920.1040@0.0.1920.1040" timestamp="1588320834623" />
     <state x="690" y="267" key="extract.method.dialog/0.0.1920.1040@0.0.1920.1040" timestamp="1588318402071" />
-    <state x="753" y="265" key="refactoring.ChangeSignatureDialog" timestamp="1588319433378">
+    <state x="753" y="265" key="refactoring.ChangeSignatureDialog" timestamp="1588320431916">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="753" y="265" key="refactoring.ChangeSignatureDialog/0.0.1920.1040/1920.0.1920.1040@0.0.1920.1040" timestamp="1588319433378" />
+    <state x="753" y="265" key="refactoring.ChangeSignatureDialog/0.0.1920.1040/1920.0.1920.1040@0.0.1920.1040" timestamp="1588320431916" />
     <state x="623" y="225" width="672" height="678" key="search.everywhere.popup" timestamp="1588319712820">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>

@@ -1,18 +1,11 @@
 package kr.ac.jejunu.user;
 
-import jdk.nashorn.internal.ir.CallNode;
 import org.springframework.beans.factory.annotation.Value;
-import org.springframework.context.annotation.Configuration;
 import org.springframework.context.annotation.Bean;
 import org.springframework.jdbc.datasource.SimpleDriverDataSource;
 
 import javax.sql.DataSource;
-import java.io.PrintWriter;
-import java.sql.Connection;
 import java.sql.Driver;
-import java.sql.SQLException;
-import java.sql.SQLFeatureNotSupportedException;
-import java.util.logging.Logger;
 
 public class DaoFactory {
     @Value("${db.classname}")
@@ -27,7 +20,12 @@ public class DaoFactory {
 
     @Bean
     public UserDao getUserDao() {
-        return new UserDao(dataSource());
+
+        return new UserDao(jdbcContext());
+    }
+    @Bean
+    public JdbcContext jdbcContext(){
+        return new JdbcContext(dataSource());
     }
     @Bean
     public DataSource dataSource(){
