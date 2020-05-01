@@ -240,6 +240,14 @@
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="664" y="393" key="#com.intellij.refactoring.memberPushDown.PushDownDialog/0.0.1920.1040/1920.0.1920.1040@0.0.1920.1040" timestamp="1587114632063" />
+    <state x="742" y="386" width="435" height="274" key="#com.intellij.refactoring.move.moveClassesOrPackages.MoveClassesOrPackagesDialog.classes" timestamp="1588323289102">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="742" y="386" width="435" height="274" key="#com.intellij.refactoring.move.moveClassesOrPackages.MoveClassesOrPackagesDialog.classes/0.0.1920.1040/1920.0.1920.1040@0.0.1920.1040" timestamp="1588323289102" />
+    <state x="742" y="352" key="#com.intellij.refactoring.move.moveInstanceMethod.MoveInstanceMethodDialog" timestamp="1588323358076">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="742" y="352" key="#com.intellij.refactoring.move.moveInstanceMethod.MoveInstanceMethodDialog/0.0.1920.1040/1920.0.1920.1040@0.0.1920.1040" timestamp="1588323358076" />
     <state x="289" y="0" key="#com.intellij.refactoring.rename.AutomaticRenamingDialog" timestamp="1587790077624">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
@@ -252,22 +260,22 @@
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="826" y="265" width="574" height="509" key="EnvironmentVariablesDialog/0.0.1920.1040/1920.0.1920.1040@0.0.1920.1040" timestamp="1587790497638" />
-    <state width="1877" height="281" key="GridCell.Tab.0.bottom" timestamp="1588321533573">
+    <state width="1877" height="281" key="GridCell.Tab.0.bottom" timestamp="1588322533818">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1877" height="281" key="GridCell.Tab.0.bottom/0.0.1920.1040/1920.0.1920.1040@0.0.1920.1040" timestamp="1588321533573" />
-    <state width="1877" height="281" key="GridCell.Tab.0.center" timestamp="1588321533573">
+    <state width="1877" height="281" key="GridCell.Tab.0.bottom/0.0.1920.1040/1920.0.1920.1040@0.0.1920.1040" timestamp="1588322533818" />
+    <state width="1877" height="281" key="GridCell.Tab.0.center" timestamp="1588322533817">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1877" height="281" key="GridCell.Tab.0.center/0.0.1920.1040/1920.0.1920.1040@0.0.1920.1040" timestamp="1588321533573" />
-    <state width="1877" height="281" key="GridCell.Tab.0.left" timestamp="1588321533573">
+    <state width="1877" height="281" key="GridCell.Tab.0.center/0.0.1920.1040/1920.0.1920.1040@0.0.1920.1040" timestamp="1588322533817" />
+    <state width="1877" height="281" key="GridCell.Tab.0.left" timestamp="1588322533817">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1877" height="281" key="GridCell.Tab.0.left/0.0.1920.1040/1920.0.1920.1040@0.0.1920.1040" timestamp="1588321533573" />
-    <state width="1877" height="281" key="GridCell.Tab.0.right" timestamp="1588321533573">
+    <state width="1877" height="281" key="GridCell.Tab.0.left/0.0.1920.1040/1920.0.1920.1040@0.0.1920.1040" timestamp="1588322533817" />
+    <state width="1877" height="281" key="GridCell.Tab.0.right" timestamp="1588322533817">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1877" height="281" key="GridCell.Tab.0.right/0.0.1920.1040/1920.0.1920.1040@0.0.1920.1040" timestamp="1588321533573" />
+    <state width="1877" height="281" key="GridCell.Tab.0.right/0.0.1920.1040/1920.0.1920.1040@0.0.1920.1040" timestamp="1588322533817" />
     <state width="1877" height="348" key="GridCell.Tab.1.bottom" timestamp="1587118486689">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
@@ -297,10 +305,10 @@
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="754" y="297" key="chooseDestDirectoryDialog/0.0.1920.1040/1920.0.1920.1040@0.0.1920.1040" timestamp="1586517026018" />
-    <state x="690" y="267" key="extract.method.dialog" timestamp="1588320834623">
+    <state x="690" y="267" key="extract.method.dialog" timestamp="1588323158810">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="690" y="267" key="extract.method.dialog/0.0.1920.1040/1920.0.1920.1040@0.0.1920.1040" timestamp="1588320834623" />
+    <state x="690" y="267" key="extract.method.dialog/0.0.1920.1040/1920.0.1920.1040@0.0.1920.1040" timestamp="1588323158810" />
     <state x="690" y="267" key="extract.method.dialog/0.0.1920.1040@0.0.1920.1040" timestamp="1588318402071" />
     <state x="753" y="265" key="refactoring.ChangeSignatureDialog" timestamp="1588320431916">
       <screen x="0" y="0" width="1920" height="1040" />
