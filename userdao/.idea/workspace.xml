@@ -87,13 +87,17 @@
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="extract.method.default.visibility" value="private" />
     <property name="last_directory_selection" value="$PROJECT_DIR$/src/main/java/kr/ac/jejunu/user" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/src/main/webapp" />
     <property name="project.structure.last.edited" value="Modules" />
     <property name="project.structure.proportion" value="0.0" />
     <property name="project.structure.side.proportion" value="0.0" />
     <property name="settings.editor.selected.configurable" value="reference.settingsdialog.project.gradle" />
   </component>
   <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\hsj33\Desktop\포털\PortalService\userdao\src\main\webapp" />
+      <recent name="C:\Users\hsj33\Desktop\포털\PortalService\userdao\src\main\java\kr\ac\jejunu\user" />
+    </key>
     <key name="CreateClassDialog.RecentsKey">
       <recent name="kr.ac.jejunu.user" />
     </key>
