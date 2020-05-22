@@ -87,17 +87,37 @@
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="extract.method.default.visibility" value="private" />
     <property name="last_directory_selection" value="$PROJECT_DIR$/src/main/java/kr/ac/jejunu/user" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/../../중간고사/java-framework-class-miexam" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="project.structure.last.edited" value="Modules" />
     <property name="project.structure.proportion" value="0.0" />
     <property name="project.structure.side.proportion" value="0.0" />
+    <property name="settings.editor.selected.configurable" value="reference.settingsdialog.project.gradle" />
   </component>
   <component name="RecentsManager">
     <key name="CreateClassDialog.RecentsKey">
       <recent name="kr.ac.jejunu.user" />
     </key>
   </component>
-  <component name="RunManager" selected="Gradle.userdao">
+  <component name="RunManager" selected="Gradle.LombokTests.equals">
+    <configuration name="LombokTests.equals" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
+      <ExternalSystemSettings>
+        <option name="executionName" />
+        <option name="externalProjectPath" value="$PROJECT_DIR$" />
+        <option name="externalSystemIdString" value="GRADLE" />
+        <option name="scriptParameters" value="--tests &quot;kr.ac.jejunu.user.LombokTests.equals&quot;" />
+        <option name="taskDescriptions">
+          <list />
+        </option>
+        <option name="taskNames">
+          <list>
+            <option value=":test" />
+          </list>
+        </option>
+        <option name="vmOptions" />
+      </ExternalSystemSettings>
+      <GradleScriptDebugEnabled>false</GradleScriptDebugEnabled>
+      <method v="2" />
+    </configuration>
     <configuration name="UserDaoTests" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
       <ExternalSystemSettings>
         <option name="executionName" />
@@ -185,9 +205,11 @@
       <item itemvalue="Gradle.UserDaoTests" />
       <item itemvalue="Gradle.UserDaoTests.get" />
       <item itemvalue="Gradle.UserDaoTests.insert" />
+      <item itemvalue="Gradle.LombokTests.equals" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Gradle.LombokTests.equals" />
         <item itemvalue="Gradle.userdao" />
         <item itemvalue="Gradle.UserDaoTests" />
         <item itemvalue="Gradle.UserDaoTests.insert" />
@@ -229,14 +251,14 @@
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="440" y="94" key="#Project_Structure/0.0.1920.1040/1920.0.1920.1040@0.0.1920.1040" timestamp="1587788500148" />
-    <state x="414" y="174" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1587790499315">
+    <state x="414" y="174" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1590130471340">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="414" y="174" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1920.1040/1920.0.1920.1040@0.0.1920.1040" timestamp="1587790499315" />
-    <state x="765" y="225" key="#com.intellij.ide.util.MemberChooser" timestamp="1588320035853">
+    <state x="414" y="174" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1920.1040/1920.0.1920.1040@0.0.1920.1040" timestamp="1590130471340" />
+    <state x="765" y="225" key="#com.intellij.ide.util.MemberChooser" timestamp="1590130662305">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="765" y="225" key="#com.intellij.ide.util.MemberChooser/0.0.1920.1040/1920.0.1920.1040@0.0.1920.1040" timestamp="1588320035853" />
+    <state x="765" y="225" key="#com.intellij.ide.util.MemberChooser/0.0.1920.1040/1920.0.1920.1040@0.0.1920.1040" timestamp="1590130662305" />
     <state x="664" y="393" key="#com.intellij.refactoring.memberPushDown.PushDownDialog" timestamp="1587114632063">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
@@ -306,6 +328,10 @@
     </state>
     <state x="775" y="453" key="ReplaceDuplicatesPrompt/0.0.1920.1040/1920.0.1920.1040@0.0.1920.1040" timestamp="1588320728005" />
     <state x="775" y="453" key="ReplaceDuplicatesPrompt/0.0.1920.1040@0.0.1920.1040" timestamp="1588318375545" />
+    <state x="461" y="164" key="SettingsEditor" timestamp="1590130839942">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="461" y="164" key="SettingsEditor/0.0.1920.1040/1920.0.1920.1040@0.0.1920.1040" timestamp="1590130839942" />
     <state x="754" y="297" key="chooseDestDirectoryDialog" timestamp="1586517026018">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
@@ -315,10 +341,10 @@
     </state>
     <state x="690" y="267" key="extract.method.dialog/0.0.1920.1040/1920.0.1920.1040@0.0.1920.1040" timestamp="1588323158810" />
     <state x="690" y="267" key="extract.method.dialog/0.0.1920.1040@0.0.1920.1040" timestamp="1588318402071" />
-    <state x="339" y="119" key="new project wizard" timestamp="1588926056628">
+    <state x="339" y="119" key="new project wizard" timestamp="1590130529275">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="339" y="119" key="new project wizard/0.0.1920.1040/1920.0.1920.1040@0.0.1920.1040" timestamp="1588926056628" />
+    <state x="339" y="119" key="new project wizard/0.0.1920.1040/1920.0.1920.1040@0.0.1920.1040" timestamp="1590130529275" />
     <state x="753" y="265" key="refactoring.ChangeSignatureDialog" timestamp="1588320431916">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
