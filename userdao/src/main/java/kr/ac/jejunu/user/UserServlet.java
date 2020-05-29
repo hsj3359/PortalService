@@ -3,10 +3,11 @@ package kr.ac.jejunu.user;
 import lombok.SneakyThrows;
 import org.springframework.context.ApplicationContext;
 import org.springframework.context.annotation.AnnotationConfigApplicationContext;
+import org.springframework.stereotype.Controller;
 
 import javax.servlet.*;
 import java.io.IOException;
-
+@Controller("/userServlet")
 public class UserServlet extends GenericServlet {
     private UserDao userDao;
     @Override
