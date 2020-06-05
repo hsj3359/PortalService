@@ -101,13 +101,13 @@
     <property name="settings.editor.selected.configurable" value="reference.settingsdialog.project.gradle" />
   </component>
   <component name="RecentsManager">
+    <key name="CreateClassDialog.RecentsKey">
+      <recent name="kr.ac.jejunu.user" />
+    </key>
     <key name="CopyFile.RECENT_KEYS">
       <recent name="C:\Users\hsj33\Desktop\포털\PortalService\userdao\src\main\webapp\WEB-INF\views" />
       <recent name="C:\Users\hsj33\Desktop\포털\PortalService\userdao\src\main\webapp" />
       <recent name="C:\Users\hsj33\Desktop\포털\PortalService\userdao\src\main\java\kr\ac\jejunu\user" />
-    </key>
-    <key name="CreateClassDialog.RecentsKey">
-      <recent name="kr.ac.jejunu.user" />
     </key>
   </component>
   <component name="RunManager" selected="Gradle.LombokTests.equals">
@@ -239,7 +239,8 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1586516274405</updated>
-      <workItem from="1590754926942" duration="2032000" />
+      <workItem from="1590754926942" duration="2131000" />
+      <workItem from="1591332964820" duration="1486000" />
     </task>
     <servers />
   </component>
