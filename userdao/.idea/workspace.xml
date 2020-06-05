@@ -70,6 +70,7 @@
       <list>
         <option value="Interface" />
         <option value="Class" />
+        <option value="HTML File" />
       </list>
     </option>
   </component>
@@ -83,6 +84,7 @@
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent">
+    <property name="DefaultHtmlFileTemplate" value="HTML File" />
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
@@ -212,6 +214,11 @@
       <GradleScriptDebugEnabled>true</GradleScriptDebugEnabled>
       <method v="2" />
     </configuration>
+    <configuration default="true" type="js.build_tools.grunt">
+      <node-interpreter value="project" />
+      <envs />
+      <method v="2" />
+    </configuration>
     <list>
       <item itemvalue="Gradle.userdao" />
       <item itemvalue="Gradle.UserDaoTests" />
@@ -240,7 +247,7 @@
       <option name="presentableId" value="Default" />
       <updated>1586516274405</updated>
       <workItem from="1590754926942" duration="2131000" />
-      <workItem from="1591332964820" duration="1486000" />
+      <workItem from="1591332964820" duration="3101000" />
     </task>
     <servers />
   </component>
