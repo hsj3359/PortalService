@@ -3,10 +3,7 @@ package kr.ac.jejunu.user;
 import com.sun.org.apache.xpath.internal.operations.Mod;
 import lombok.RequiredArgsConstructor;
 import org.springframework.stereotype.Controller;
-import org.springframework.web.bind.annotation.ExceptionHandler;
-import org.springframework.web.bind.annotation.RequestMapping;
-import org.springframework.web.bind.annotation.RequestMethod;
-import org.springframework.web.bind.annotation.RequestParam;
+import org.springframework.web.bind.annotation.*;
 import org.springframework.web.multipart.MultipartFile;
 import org.springframework.web.servlet.ModelAndView;
 
@@ -14,19 +11,20 @@ import javax.servlet.http.HttpServletRequest;
 import java.io.*;
 
 @Controller
-@RequestMapping
 @RequiredArgsConstructor
 public class UserController {
     private final UserDao userDao;
-    @RequestMapping("/user")
-    public  User getUser(@RequestParam("id") Integer id){
 
+
+    @RequestMapping(value = "/user")
+    public @ModelAttribute User getUser(@RequestParam("id") Integer id){
         return userDao.get(id);
     }
     @RequestMapping("/exception")
     public  void exceprion(){
         throw new RuntimeException("어이쿠!!");
     }
+
     @RequestMapping(path="/upload", method = RequestMethod.GET)
     public void upload(){
 
