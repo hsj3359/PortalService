@@ -92,7 +92,7 @@
     <property name="extract.method.default.visibility" value="private" />
     <property name="js.buildTools.grunt.grunt-cli.package" value="" />
     <property name="last_directory_selection" value="$PROJECT_DIR$/src/main/java/kr/ac/jejunu/user" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/src/main/webapp/WEB-INF/views" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="node.js.detected.package.eslint" value="true" />
     <property name="node.js.path.for.package.eslint" value="project" />
     <property name="node.js.path.for.package.tslint" value="project" />
@@ -250,7 +250,9 @@
       <workItem from="1590754926942" duration="2131000" />
       <workItem from="1591332964820" duration="4186000" />
       <workItem from="1591776706777" duration="156000" />
-      <workItem from="1591949478869" duration="3740000" />
+      <workItem from="1591949478869" duration="3838000" />
+      <workItem from="1592035940600" duration="19000" />
+      <workItem from="1592540560055" duration="1797000" />
     </task>
     <servers />
   </component>
